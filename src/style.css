@@ -1,0 +1,33 @@
+.postCard{
+	margin: 100px 200px 100px 200px;
+	background-color: black;
+	color: white;
+	border-radius: 10px;
+	padding: 15px 25px 75px 25px;
+}
+#mainBody{
+	background-color: #709fea;
+}
+.postTitle{
+	text-align: center;
+}
+#button{
+	margin: 10px 20px 0px 0px;
+}
+#create-post{
+	margin: 80px 100px 20px 100px;
+	background-color: black;
+}
+#titleid{
+	width: 99%;
+}
+#buttonid{
+
+}
+.label{
+	color: white;
+	text-align: center;
+}
+#post-table{
+
+}
