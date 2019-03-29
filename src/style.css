@@ -6,7 +6,7 @@
 	padding: 15px 25px 75px 25px;
 }
 #mainBody{
-	background-color: #709fea;
+	background-color: pink;
 }
 .postTitle{
 	text-align: center;
@@ -16,18 +16,12 @@
 }
 #create-post{
 	margin: 80px 100px 20px 100px;
-	background-color: black;
 }
 #titleid{
-	width: 99%;
+	width: 100%;
 }
-#buttonid{
 
-}
 .label{
 	color: white;
 	text-align: center;
-}
-#post-table{
-
 }
